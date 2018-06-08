@@ -1,0 +1,13 @@
+C:\Users\Administrator.SKY-20180508AFJ\Desktop\PWMS\PWMS\obj\x86\Debug\Interop.VBIDE.dll
+C:\Users\Administrator.SKY-20180508AFJ\Desktop\PWMS\PWMS\obj\x86\Debug\PWMS.csproj.ResolveComReference.cache
+C:\Users\Administrator.SKY-20180508AFJ\Desktop\PWMS\PWMS\bin\Debug\PWMS.exe
+C:\Users\Administrator.SKY-20180508AFJ\Desktop\PWMS\PWMS\bin\Debug\PWMS.pdb
+C:\Users\Administrator.SKY-20180508AFJ\Desktop\PWMS\PWMS\obj\x86\Debug\PWMS.csprojResolveAssemblyReference.cache
+C:\Users\Administrator.SKY-20180508AFJ\Desktop\PWMS\PWMS\obj\x86\Debug\PWMS.F_ind.resources
+C:\Users\Administrator.SKY-20180508AFJ\Desktop\PWMS\PWMS\obj\x86\Debug\PWMS.F_Login.resources
+C:\Users\Administrator.SKY-20180508AFJ\Desktop\PWMS\PWMS\obj\x86\Debug\PWMS.F_MainFile.resources
+C:\Users\Administrator.SKY-20180508AFJ\Desktop\PWMS\PWMS\obj\x86\Debug\PWMS.PerForm.resources
+C:\Users\Administrator.SKY-20180508AFJ\Desktop\PWMS\PWMS\obj\x86\Debug\PWMS.Properties.Resources.resources
+C:\Users\Administrator.SKY-20180508AFJ\Desktop\PWMS\PWMS\obj\x86\Debug\PWMS.csproj.GenerateResource.Cache
+C:\Users\Administrator.SKY-20180508AFJ\Desktop\PWMS\PWMS\obj\x86\Debug\PWMS.exe
+C:\Users\Administrator.SKY-20180508AFJ\Desktop\PWMS\PWMS\obj\x86\Debug\PWMS.pdb
